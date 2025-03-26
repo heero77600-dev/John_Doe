@@ -73,6 +73,7 @@ Ce projet est encore à ses débuts, et nous recherchons des financements et des
 - **Expertise technique** 🛠️ : Les contributeurs techniques ayant une expertise dans Kubernetes, Docker et l'orchestration de l'IA sont les bienvenus. Vos compétences peuvent aider à améliorer l'évolutivité et l'efficacité de la plateforme.
 
 - **Parrainage** 🤝 : Devenez un sponsor pour nous aider à étendre notre infrastructure de développement, acquérir des outils essentiels et améliorer l'accessibilité pour un public mondial.
+[Support us via GitHub Sponsors](https://github.com/sponsors/)
 
 - **Impact** 🌍 : En soutenant le projet John Doe, vous contribuez au développement d'un écosystème d'IA transparent et équitable, ayant un impact sur l'avenir de la technologie et de la société.
 
