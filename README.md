@@ -82,7 +82,15 @@ This project is at its early stages, and we are seeking funding and resources to
 
 - **Cloud Credits** 🌐: We need cloud credits to support testing and deployment on platforms like GCP, AWS, and Azure. This will enable our team to scale and experiment with multi-AI integration systems.
 
-- **Technical Expertise** 🛠️ : Technical contributors with expertise in Kubernetes, Docker, cloud infrastructure engineering, and AI orchestration are welcome. Your skills can help shape the platform's scalability, reliability, and efficiency.
+- **Collaboration Opportunities** 🌍 :
+   - **Technical Expertise** 🛠️ : We welcome technical contributors with expertise in Kubernetes, Docker, cloud infrastructure engineering, and AI orchestration. These skills are crucial for shaping the platform's scalability, reliability, and efficiency.
+
+   - **Additional Roles** 🎯 :
+      - **Security Engineers**: Experts in ensuring the safety and security of cloud and AI platforms.
+      - **DevOps Experts**: Specialists in optimizing continuous deployment and monitoring processes for improved development efficiency.
+      - **Data Scientists**: Professionals skilled in analyzing data and training AI models to enhance accuracy.
+      - **UI/UX Designers**: Creators of user-friendly and visually appealing interfaces to improve user experience.
+      - **AI Ethics Advisors**: Advocates for ethical and socially responsible development practices.
 
 - **Sponsorship** 🤝: Become a sponsor to help us expand our development infrastructure, acquire essential tools, and improve accessibility for a global audience.
 [Support us via GitHub Sponsors](https://github.com/sponsors/)
