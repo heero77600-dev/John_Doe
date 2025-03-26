@@ -47,3 +47,13 @@ Help improve the documentation or translate content to make it accessible global
 
 # Support Us
 This project is at its early stages, and we are seeking funding and resources to expand development capabilities. If you'd like to sponsor or collaborate, please reach out via [email/communication link].
+
+- "We need cloud credits to support testing and deployment on platforms like GCP, AWS, and Azure. This will enable our team to scale and experiment with multi-AI integration systems."
+
+- "Technical contributors with expertise in Kubernetes, Docker, and AI orchestration are welcome. Your skills can help shape the platform's scalability and efficiency."
+
+- "Become a sponsor to help us expand our development infrastructure, acquire essential tools, and improve accessibility for a global audience."
+
+- "By supporting John Doe, you contribute to the development of a transparent and fair AI ecosystem, impacting the future of technology and society."
+
+- "Sponsors will be acknowledged and credited prominently within the project documentation and community outreach materials."
