@@ -66,7 +66,7 @@ Commencez à contribuer en explorant les problèmes ouverts ou en proposant des 
 - Aidez à améliorer la documentation ou à traduire du contenu pour le rendre accessible à un public mondial.
 
 # Nous soutenir
-Ce projet est encore à ses débuts, et nous recherchons des financements et des ressources pour étendre nos capacités de développement. Si vous souhaitez parrainer ou collaborer, veuillez rejoindre notre **serveur Discord [https://discord.gg/gX96CSbNz6]** pour des discussions en temps réel ou contactez-nous par email à **[mayu.tsuji@gmail.com]** pour des demandes officielles.
+Ce projet est encore à ses débuts, et nous recherchons des financements et des ressources pour étendre nos capacités de développement. Si vous souhaitez parrainer ou collaborer, veuillez rejoindre notre **serveur Discord [https://discord.gg/gX96CSbNz6]** pour des discussions en temps réel ou contactez-nous par email à **[heero77600@outlook.jp]** pour des demandes officielles.
 
 - **Crédits cloud** 🌐 : Nous avons besoin de crédits cloud pour soutenir les tests et le déploiement sur des plateformes comme GCP, AWS et Azure. Cela permettra à notre équipe de s'étendre et d'expérimenter des systèmes d'intégration multi-IA.
 
