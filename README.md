@@ -3,14 +3,13 @@
 
 Join us in transforming the AI landscape through transparency and collaboration.
 
-**unbiased AI, global contributions, collaborative brainstorming**
+**We strive to create an unbiased AI ecosystem, foster global contributions, and encourage collaborative innovation.**
 
 
 
 # Overview
 Welcome to the John Doe Project, an initiative to develop a common orchestration AI platform enabling multi-AI integration. Our goal is to create an open, transparent, and collaborative AI system that fosters fairness, accessibility, and ethical progress. Inspired by the vision of a unified AI ecosystem, this project aims to eliminate monopolistic control and promote global contributions.
 
-# Project Objectives
 # Project Objectives
 - **Build a Unified Platform**: Integrate multiple AI systems such as Copilot, Gemini, Siri, and ChatGPT through a scalable orchestration framework.
 - **Ensure Fairness**: Maintain ethical and transparent processes to guarantee unbiased AI decision-making.
@@ -34,7 +33,7 @@ We prioritize openness and fairness. The project adopts the GNU General Public L
 Clone this repository:
 
 ```bash
-git clone https://github.com/YourActualUsername/John_Doe.git
+git clone https://github.com/heero77600-dev/John_Doe.git
 ```
 Review the documentation and development roadmap in the /docs folder.
 
