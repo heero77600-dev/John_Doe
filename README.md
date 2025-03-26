@@ -31,8 +31,9 @@ We prioritize openness and fairness. The project adopts the GNU General Public L
 # Getting Started
 Clone this repository:
 
-#bash
+```#bash
 git clone https://github.com/[YourUsername]/John_Doe.git
+```
 Review the documentation and development roadmap in the /docs folder.
 
 Start contributing by exploring open issues or suggesting ideas in the Discussions tab.
