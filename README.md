@@ -5,7 +5,9 @@ Join us in transforming the AI landscape through transparency and collaboration.
 
 **We strive to create an unbiased AI ecosystem, foster global contributions, and encourage collaborative innovation.**
 
-
+### **日本語の案内 🇯🇵**
+John Doeプロジェクトへようこそ！このプロジェクトは、透明性と協調を通じてAIの未来を形作ることを目的としています。プロジェクトの詳細を日本語でご確認いただくには、以下のリンクをご利用ください：  
+[README_日本語版はこちら](https://github.com/heero77600-dev/John_Doe/edit/main/readme_ja.md)
 
 # **Overview**
 Welcome to the John Doe Project, an initiative to develop a common orchestration AI platform enabling multi-AI integration. Our goal is to create an open, transparent, and collaborative AI system that fosters fairness, accessibility, and ethical progress. Inspired by the vision of a unified AI ecosystem, this project aims to eliminate monopolistic control and promote global contributions.
