@@ -19,10 +19,10 @@ Welcome to the John Doe Project, an initiative to develop a common orchestration
 
 
 # Key Features
-- **Multi-AI Integration**: Seamless communication and collaboration between diverse AI systems using standardized APIs and protocols.
-- **Scalable Architecture**: Utilizing Docker and Kubernetes for dynamic scaling across major cloud platforms like GCP, AWS, and Azure.
-- **Real-Time Processing**: High efficiency in handling massive data flows to deliver real-time insights and actions.
-- **Transparency-Driven Design**: Commitment to open development practices that empower community oversight and trust.
+- **Multi-AI Integration** 🤖: Seamless communication and collaboration between diverse AI systems using standardized APIs and protocols.
+- **Scalable Architecture** ⚙️: Utilizing Docker and Kubernetes for dynamic scaling across major cloud platforms like GCP, AWS, and Azure.
+- **Real-Time Processing** ⏱️: High efficiency in handling massive data flows to deliver real-time insights and actions.
+- **Transparency-Driven Design** 🌍: Commitment to open development practices that empower community oversight and trust.
 
 # Why John Doe?
 This project is inspired by the notion of creating an impartial "central AI"—a system that orchestrates collaboration while respecting diversity and ethical foundations. Similar to the John Doe concept from MGS4, this AI aims to guide societal fairness while eliminating exclusivity.
