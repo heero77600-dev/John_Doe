@@ -1,5 +1,5 @@
 # John_Doe
-*Shaping the future of ethical and collaborative AI systems*
+*Empowering the world through ethical AI, accessible innovation, and unlocking potential.*
 
 Join us in transforming the AI landscape through transparency and collaboration. This project is dedicated to transforming AI into a tool for global fairness and transparency.
 
