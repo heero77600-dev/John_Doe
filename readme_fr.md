@@ -60,3 +60,24 @@ Clonez ce dépôt :
 git clone https://github.com/heero77600-dev/John_Doe.git
 ```
 
+Consultez la documentation et la feuille de route de développement dans le dossier `/docs`.
+
+Commencez à contribuer en explorant les problèmes ouverts ou en proposant des idées dans l'onglet Discussions.
+
+# Comment contribuer
+- Soumettez des pull requests pour de nouvelles fonctionnalités ou des améliorations.
+- Participez à l'onglet Discussions pour un brainstorming collaboratif.
+- Aidez à améliorer la documentation ou à traduire du contenu pour le rendre accessible à un public mondial.
+
+# Nous soutenir
+Ce projet est encore à ses débuts, et nous recherchons des financements et des ressources pour étendre nos capacités de développement. Si vous souhaitez parrainer ou collaborer, veuillez rejoindre notre **serveur Discord [https://discord.gg/gX96CSbNz6]** pour des discussions en temps réel ou contactez-nous par email à **[mayu.tsuji@gmail.com]** pour des demandes officielles.
+
+- **Crédits cloud** 🌐 : Nous avons besoin de crédits cloud pour soutenir les tests et le déploiement sur des plateformes comme GCP, AWS et Azure. Cela permettra à notre équipe de s'étendre et d'expérimenter des systèmes d'intégration multi-IA.
+
+- **Expertise technique** 🛠️ : Les contributeurs techniques ayant une expertise dans Kubernetes, Docker et l'orchestration de l'IA sont les bienvenus. Vos compétences peuvent aider à améliorer l'évolutivité et l'efficacité de la plateforme.
+
+- **Parrainage** 🤝 : Devenez un sponsor pour nous aider à étendre notre infrastructure de développement, acquérir des outils essentiels et améliorer l'accessibilité pour un public mondial.
+
+- **Impact** 🌍 : En soutenant le projet John Doe, vous contribuez au développement d'un écosystème d'IA transparent et équitable, ayant un impact sur l'avenir de la technologie et de la société.
+
+- **Reconnaissance** ⭐ : Les sponsors seront reconnus et crédités de manière visible dans la documentation du projet et les supports de communication communautaires.
