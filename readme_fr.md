@@ -5,10 +5,6 @@ Rejoignez-nous pour transformer le paysage de l'IA à travers la transparence et
 
 **Nous nous efforçons de créer un écosystème d'IA impartial, de favoriser les contributions mondiales et d'encourager l'innovation collaborative.**
 
-### **Guide en français 🇫🇷**
-Bienvenue dans le projet John Doe ! Ce projet vise à façonner l'avenir de l'IA par la transparence et la collaboration. Pour en savoir plus sur le projet en français, veuillez consulter le lien suivant :  
-[README version française](https://github.com/heero77600-dev/John_Doe/blob/main/readme_fr.md)
-
 # **Présentation**
 Bienvenue dans le projet John Doe, une initiative visant à développer une plateforme commune d'orchestration pour l'intégration de multiples IA. Notre objectif est de créer un système d'IA ouvert, transparent et collaboratif qui favorise l'équité, l'accessibilité et les progrès éthiques. Inspiré par la vision d'un écosystème d'IA unifié, ce projet vise à éliminer le contrôle monopolistique et à promouvoir les contributions mondiales.
 
