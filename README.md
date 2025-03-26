@@ -78,7 +78,7 @@ Join the Discussions tab for collaborative brainstorming.
 Help improve the documentation or translate content to make it accessible globally.
 
 # Support Us
-This project is at its early stages, and we are seeking funding and resources to expand development capabilities. If you'd like to sponsor or collaborate, please join our **Discord server [https://discord.gg/gX96CSbNz6]** for real-time discussions or contact us via email at **[mayu.tsuji@gmail.com]** for formal inquiries.
+This project is at its early stages, and we are seeking funding and resources to expand development capabilities. If you'd like to sponsor or collaborate, please join our **Discord server [https://discord.gg/gX96CSbNz6]** for real-time discussions or contact us via email at **[heero77600@outlook.jp]** for formal inquiries.
 
 - **Cloud Credits** 🌐: We need cloud credits to support testing and deployment on platforms like GCP, AWS, and Azure. This will enable our team to scale and experiment with multi-AI integration systems.
 
