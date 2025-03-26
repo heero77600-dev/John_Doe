@@ -70,7 +70,8 @@ Ce projet est encore à ses débuts, et nous recherchons des financements et des
 
 - **Crédits cloud** 🌐 : Nous avons besoin de crédits cloud pour soutenir les tests et le déploiement sur des plateformes comme GCP, AWS et Azure. Cela permettra à notre équipe de s'étendre et d'expérimenter des systèmes d'intégration multi-IA.
 
-- **Expertise technique** 🛠️ : Les contributeurs techniques ayant une expertise dans Kubernetes, Docker et l'orchestration de l'IA sont les bienvenus. Vos compétences peuvent aider à améliorer l'évolutivité et l'efficacité de la plateforme.
+- **Expertise Technique** 🛠️ : Nous accueillons des contributeurs techniques possédant une expertise en Kubernetes, Docker, ingénierie des infrastructures cloud et orchestration de l'IA. Vos compétences peuvent contribuer à façonner l'évolutivité, la fiabilité et l'efficacité de la plateforme.
+
 
 - **Parrainage** 🤝 : Devenez un sponsor pour nous aider à étendre notre infrastructure de développement, acquérir des outils essentiels et améliorer l'accessibilité pour un public mondial.
 [Support us via GitHub Sponsors](https://github.com/sponsors/)
