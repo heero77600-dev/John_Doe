@@ -85,6 +85,7 @@ This project is at its early stages, and we are seeking funding and resources to
 - **Technical Expertise** 🛠️: Technical contributors with expertise in Kubernetes, Docker, and AI orchestration are welcome. Your skills can help shape the platform's scalability and efficiency.
 
 - **Sponsorship** 🤝: Become a sponsor to help us expand our development infrastructure, acquire essential tools, and improve accessibility for a global audience.
+[Support us via GitHub Sponsors](https://github.com/sponsors/)
 
 - **Impact** 🌍: By supporting John Doe, you contribute to the development of a transparent and fair AI ecosystem, impacting the future of technology and society.
 
