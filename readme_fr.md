@@ -1,5 +1,5 @@
 # John_Doe
-*Façonner l'avenir des systèmes d'IA éthiques et collaboratifs*
+*Réaliser un monde où chacun peut construire un avenir équitable et durable grâce à une IA éthique, des innovations accessibles à tous et la libération du potentiel humain.*
 
 Rejoignez-nous pour transformer le paysage de l'IA grâce à la transparence et à la collaboration. Ce projet est dédié à faire de l'IA un outil de justice et de transparence à l'échelle mondiale.
 
